@@ -1,0 +1,45 @@
+header{
+    height:150px;
+    width: auto;
+    background-color: #111111;
+}
+#picture{
+  margin: 0 auto;
+  width: 10%;
+}
+nav{
+  margin: 0 auto;
+  width: 40%;
+
+}
+img{
+    width: auto;
+    height: 100px;
+}
+
+#picture1{
+  margin: 0 auto;
+  width: auto;
+  height: 100px;
+}
+
+
+}
+
+body{
+ text-align: center;
+}
+
+section{
+
+}
+
+div{
+
+}
+
+box1{
+  width: 30px;
+  height: 40px;
+  background-color: green;
+}
